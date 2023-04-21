@@ -6,4 +6,6 @@ social: []
 organizations:
   - name: choripint
 superuser: false
+user_groups:
+  - Desarrollo
 ---
