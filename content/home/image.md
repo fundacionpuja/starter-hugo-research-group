@@ -1,31 +1,27 @@
 ---
-# An instance of the Blank widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
+advanced:
+  css_class: fullscreen
 widget: blank
-
-# Activate this widget? true/false
-active: true
-
-# This file represents a page section.
+widget_id: simon
 headless: true
-
-# Order that this section appears on the page.
 weight: 30
-
-title:
-subtitle:
-
+title: null
+subtitle: null
+active: true
 design:
-  columns: '1'
+  columns: "1"
   background:
-    image: coders.jpg
+    image: 20170721_152909-copia-.jpg
     image_darken: 0
     image_parallax: false
     image_position: center
     image_size: cover
     text_color_light: true
   spacing:
-    padding: ['20px', '0', '20px', '0']
-advanced:
-  css_class: fullscreen
+    padding:
+      - 20px
+      - "0"
+      - 20px
+      - "0"
 ---
+mi gato es muy importante.
