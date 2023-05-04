@@ -1,5 +1,5 @@
 ---
-title: Gabriel
+title: GabY
 role: chanta choriCPA
 avatar_filename: people_1.jpg
 bio: es un chanta choriCPA
