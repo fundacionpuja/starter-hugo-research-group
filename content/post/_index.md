@@ -1,11 +1,9 @@
 ---
-title: Latest News
-
-# Listing view
+title: Novedades
 view: compact
-
-# Optional banner image (relative to `assets/media/` folder).
 banner:
-  caption: ''
-  image: ''
+  caption: ""
+  image: ""
+date: 2023-05-04T22:05:23.173Z
 ---
+Ultimas del clima
