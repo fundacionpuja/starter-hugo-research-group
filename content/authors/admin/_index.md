@@ -1,5 +1,6 @@
 ---
 role: Magister en Ecohidrología
+avatar_filename: cabeza-penando.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
