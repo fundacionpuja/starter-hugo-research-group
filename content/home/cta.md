@@ -3,9 +3,9 @@ widget: blank
 widget_id: CONTACTO
 headless: true
 weight: 40
-title: TITUTLO
-subtitle: SUBTITULO
-active: true
+title: ""
+subtitle: ""
+active: false
 design:
   columns: "1"
 ---
