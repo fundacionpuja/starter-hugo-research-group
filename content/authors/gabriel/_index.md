@@ -1,7 +1,7 @@
 ---
 title: Gabriel
 role: chanta choriCPA
-avatar_filename: photo_2023-01-13_07-38-36.jpg
+avatar_filename: people_1.jpg
 bio: es un chanta choriCPA
 interests:
   - ninguno
