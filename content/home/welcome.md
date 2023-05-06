@@ -8,7 +8,7 @@ headless: true # This file represents a page section.
 weight: 7 # Order that this section will appear.
 title: |
   Fundación para  
-  la Conservación de los Recursos Hídricos
+  la Conservación de los Recursos Hídricos y su Biodiversidad
 hero_media: welcome.jpg
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
