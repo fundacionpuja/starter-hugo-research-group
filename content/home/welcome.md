@@ -20,4 +20,4 @@ design:
 
 <br>
 
-The **Fundacion para la Conservacion de los Recursos Hidricos** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+Apoya iniciativas para el aprovechamiento sustentable a traves de la **Acuicultura**.
