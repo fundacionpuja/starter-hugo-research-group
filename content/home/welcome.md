@@ -20,4 +20,4 @@ design:
 
 <br>
 
-Investiga, promueve y apoya iniciativas para el aprovechamiento sustentable de organimos acuàticos a traves de la **Acuicultura**.
+Investiga, promueve y apoya iniciativas para el aprovechamiento sustentable de organismos acuáticos a través de la **Acuicultura**.
