@@ -5,7 +5,7 @@
 
 widget: hero # See https://wowchemy.com/docs/page-builder/
 headless: true # This file represents a page section.
-weight: 9 # Order that this section will appear.
+weight: 7 # Order that this section will appear.
 title: |
   Fundación para  
   la Conservación de los Recursos Hídricos
