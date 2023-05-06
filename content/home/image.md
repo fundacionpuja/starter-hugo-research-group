@@ -24,4 +24,4 @@ design:
       - 20px
       - "0"
 ---
-mi gato es muy importante.
+mi gato SIMON.
