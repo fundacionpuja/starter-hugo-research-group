@@ -32,7 +32,7 @@ superuser: true
 user_groups:
   - Researchers
 highlight_name: false
-title: Mg. Vivian Yorojo Moreno
+title: Vivian Yorojo Moreno
 email: ""
 ---
 
