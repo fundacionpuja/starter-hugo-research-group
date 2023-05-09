@@ -37,5 +37,4 @@ email: ""
 ---
 
 Vivian Yorojo es promotora de modelos de acuicultura ecológica para la producción de peces, posee amplia experiencia en manejo y mantenimiento en cautiverio de organismos acuáticos en Colombia. Participa en trabajos de investigación relacionados con el desarrollo de la acuicultura ecológica en lagunas pampeanas en Argentina. Forma parte del equipo de investigación del Lab.de ecología de peces del Instituto de Limnología Dr. Raúl A. Ringuelet, del CONICET - FCNyM (UNLP). 
-
   
