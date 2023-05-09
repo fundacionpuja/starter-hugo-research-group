@@ -1,12 +1,12 @@
 ---
-role: Magister en Ecohidrología
+role: Promotor Acuicultura Ecológica
 avatar_filename: avatar.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Acuicultura ecológica
+  - Educación acuícola
+  - Ciencia de datos
 social:
   - icon: envelope
     icon_pack: fas
@@ -23,14 +23,10 @@ social:
 organizations: []
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
+    - course: Mg. en Ecohidrología
+    - course: Lic.Biología y Química
+    - course: Dr. Ciencia Naturales
+      institution: candidato
       year: 2008
 superuser: true
 user_groups:
@@ -40,6 +36,6 @@ title: Mg. Vivian Yorojo Moreno
 email: ""
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Vivian Yorojo es promotora de modelos de acuicultura ecológica para la producción de peces, posee amplia experiencia en manejo y mantenimiento en cautiverio de organismos acuáticos en Colombia. Participa en trabajos de investigación relacionados con el desarrollo de la acuicultura ecológica en lagunas pampeanas en Argentina. Forma parte del equipo de investigación del Lab.de ecología de peces del Instituto de Limnología Dr. Raúl A. Ringuelet, del CONICET-FCNyM (UNLP). 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+  
