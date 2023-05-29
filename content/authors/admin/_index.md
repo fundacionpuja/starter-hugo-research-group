@@ -1,6 +1,6 @@
 ---
 role: Promotor Acuicultura Ecológica
-avatar_filename: avatar.jpg
+avatar_filename: people.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
